@@ -1,0 +1,3 @@
+C:/Users/student/Desktop/priject_git_train/cmake-build-debug/CMakeFiles/priject_git_train.dir
+C:/Users/student/Desktop/priject_git_train/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/student/Desktop/priject_git_train/cmake-build-debug/CMakeFiles/rebuild_cache.dir
